@@ -35,7 +35,6 @@ public class PembacaInput {
             }
         }
     this.pinjaman = new Pinjaman(hutang, bunga, jmlhCicilan);
-    pinjaman.hitung();
     }
 //    Getter Pinjaman
 
